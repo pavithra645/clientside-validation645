@@ -2,7 +2,7 @@ body {
     font-family: 'Arial', sans-serif;
     margin: 20px;
     text-align: justify;
-    background-color:bisque;
+    background-color:aqua;
 }
 .product{
     display:grid;
